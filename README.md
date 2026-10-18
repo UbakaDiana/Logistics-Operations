@@ -18,10 +18,6 @@ The dashboard brings these areas together to provide a consolidated view of logi
 
 ## Dashboard Sections
 
-<img width="1680" height="942" alt="Image 14-10-2026 at 18 16" src="https://github.com/user-attachments/assets/54f6342f-6ab9-4edc-8062-127ca46c3e0f" />
-<img width="1676" height="948" alt="Image 03-10-2026 at 12 33" src="https://github.com/user-attachments/assets/c61d6e18-0541-49cf-9239-557da20d7f9c" />
-<img width="1678" height="956" alt="Image 03-10-2026 at 12 34" src="https://github.com/user-attachments/assets/97a2a253-45d4-4596-9356-c91f855da601" />
-
 ### 1. Driver Performance Dashboard
 
 This section evaluates driver activity, trip performance, and revenue contribution.
@@ -41,6 +37,8 @@ This section evaluates driver activity, trip performance, and revenue contributi
 * How does trip completion vary across the reporting years?
 * Which states generate the highest revenue?
 * Which drivers are associated with the highest vehicle damage costs?
+
+<img width="1680" height="942" alt="Image 14-10-2026 at 18 16" src="https://github.com/user-attachments/assets/54f6342f-6ab9-4edc-8062-127ca46c3e0f" />
 
 ### 2. Customer Report Dashboard
 
@@ -62,6 +60,8 @@ This section focuses on customer activity, revenue potential, account status, an
 * Which customer types have the highest annual revenue potential?
 * How has annual revenue potential changed over time?
 
+<img width="1676" height="948" alt="Image 03-10-2026 at 12 33" src="https://github.com/user-attachments/assets/c61d6e18-0541-49cf-9239-557da20d7f9c" />
+
 ### 3. Safety Report Dashboard
 
 This section examines reported incidents, vehicle and cargo damage costs, and claim amounts.
@@ -81,6 +81,8 @@ This section examines reported incidents, vehicle and cargo damage costs, and cl
 * Which incident types occur most frequently?
 * Which states record the highest number of incidents?
 * How have incident counts changed over the reporting years?
+
+<img width="1678" height="956" alt="Image 03-10-2026 at 12 34" src="https://github.com/user-attachments/assets/97a2a253-45d4-4596-9356-c91f855da601" />
 
 ## Tools and Technologies
 
