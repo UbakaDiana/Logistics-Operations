@@ -18,8 +18,9 @@ The dashboard brings these areas together to provide a consolidated view of logi
 
 ## Dashboard Sections
 
-<img width="1179" height="1582" alt="Dianatsacadcapstone" src="https://github.com/user-attachments/assets/15f55140-a67f-49b5-a338-7e4f2e12e6d4" />
-
+<img width="1680" height="942" alt="Image 14-10-2026 at 18 16" src="https://github.com/user-attachments/assets/54f6342f-6ab9-4edc-8062-127ca46c3e0f" />
+<img width="1676" height="948" alt="Image 03-10-2026 at 12 33" src="https://github.com/user-attachments/assets/c61d6e18-0541-49cf-9239-557da20d7f9c" />
+<img width="1678" height="956" alt="Image 03-10-2026 at 12 34" src="https://github.com/user-attachments/assets/97a2a253-45d4-4596-9356-c91f855da601" />
 
 ### 1. Driver Performance Dashboard
 
