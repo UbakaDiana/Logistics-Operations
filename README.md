@@ -18,6 +18,9 @@ The dashboard brings these areas together to provide a consolidated view of logi
 
 ## Dashboard Sections
 
+<img width="1179" height="1582" alt="Dianatsacadcapstone" src="https://github.com/user-attachments/assets/15f55140-a67f-49b5-a338-7e4f2e12e6d4" />
+
+
 ### 1. Driver Performance Dashboard
 
 This section evaluates driver activity, trip performance, and revenue contribution.
